@@ -37,6 +37,8 @@ include_directories(${IRODS_EXTERNALS_FULLPATH_CLANG}/include/c++/v1)
 
 set(
   IRODS_CLIENT_ICOMMANDS_EXECUTABLES
+  imeta2
+  iquest2
   iadmin
   iapitest
   ibun
